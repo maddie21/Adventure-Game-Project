@@ -10,9 +10,8 @@ In this project, you'll make a simple version of an old-fashioned text-based adv
 * The game also includes some random factors, so that it's a little different each time.
 * The game has conditions for winning and losing.
 * When the game is over, it asks if the player wants to play again.
-
-- Check your style with pycodestyle
-When you're all done with your program, be sure to check it using the pycodestyle tool—and then fix any issues it raises.
+* Check your style with pycodestyle
+* * When you're all done with your program, be sure to check it using the pycodestyle tool—and then fix any issues it raises.
 
 ## Dependencies 
 * Python 3.0 or above
